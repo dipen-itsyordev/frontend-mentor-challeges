@@ -20,7 +20,7 @@ The challenge is to build out this **QR code component** and get it looking as c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dipen-itsyordev/frontend-mentor-challeges/tree/main/QR-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
